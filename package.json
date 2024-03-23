@@ -1,7 +1,7 @@
 {
   "name": "project-root",
   "version": "1.0.0",
-  "description": "Node JS APp Structure",
+  "description": "Node JS App Structure",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

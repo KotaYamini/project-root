@@ -8,6 +8,7 @@ const PORT = process.env.PORT || 3000;
 // Enable CORS for all the routes
 app.use(cors());
 
+// Your routes and other middleware can be defined here
 const api = express.Router();
 api.use('/cards', cardRouter);
 
